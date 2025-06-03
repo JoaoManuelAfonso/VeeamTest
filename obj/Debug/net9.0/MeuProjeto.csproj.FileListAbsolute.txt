@@ -1,0 +1,14 @@
+C:\Users\drago\Desktop\Proj\veeam\MeuProjeto\obj\Debug\net9.0\MeuProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drago\Desktop\Proj\veeam\MeuProjeto\obj\Debug\net9.0\MeuProjeto.AssemblyInfoInputs.cache
+C:\Users\drago\Desktop\Proj\veeam\MeuProjeto\obj\Debug\net9.0\MeuProjeto.AssemblyInfo.cs
+C:\Users\drago\Desktop\Proj\veeam\MeuProjeto\obj\Debug\net9.0\MeuProjeto.csproj.CoreCompileInputs.cache
+C:\Users\drago\Desktop\Proj\veeam\MeuProjeto\bin\Debug\net9.0\MeuProjeto.exe
+C:\Users\drago\Desktop\Proj\veeam\MeuProjeto\bin\Debug\net9.0\MeuProjeto.deps.json
+C:\Users\drago\Desktop\Proj\veeam\MeuProjeto\bin\Debug\net9.0\MeuProjeto.runtimeconfig.json
+C:\Users\drago\Desktop\Proj\veeam\MeuProjeto\bin\Debug\net9.0\MeuProjeto.dll
+C:\Users\drago\Desktop\Proj\veeam\MeuProjeto\bin\Debug\net9.0\MeuProjeto.pdb
+C:\Users\drago\Desktop\Proj\veeam\MeuProjeto\obj\Debug\net9.0\MeuProjeto.dll
+C:\Users\drago\Desktop\Proj\veeam\MeuProjeto\obj\Debug\net9.0\refint\MeuProjeto.dll
+C:\Users\drago\Desktop\Proj\veeam\MeuProjeto\obj\Debug\net9.0\MeuProjeto.pdb
+C:\Users\drago\Desktop\Proj\veeam\MeuProjeto\obj\Debug\net9.0\MeuProjeto.genruntimeconfig.cache
+C:\Users\drago\Desktop\Proj\veeam\MeuProjeto\obj\Debug\net9.0\ref\MeuProjeto.dll

@@ -1,0 +1,28 @@
+File added to replica from target at 02/06/2025 20:05:20
+File added to replica from target at 02/06/2025 20:07:01
+File added to replica from target at 02/06/2025 20:55:35
+File deleted from source at 03/06/2025 11:40:02
+File deleted from source at 03/06/2025 11:40:12
+File deleted from source at 03/06/2025 11:40:22
+File deleted from source at 03/06/2025 11:42:57
+File deleted from source at 03/06/2025 11:43:31
+File deleted from source at 03/06/2025 11:43:41
+File deleted from source at 03/06/2025 11:43:51
+File deleted from source at 03/06/2025 11:44:01
+File added to replica from target at 03/06/2025 12:42:56
+File deleted from replica at 03/06/2025 12:43:06
+File added to replica from target at 03/06/2025 12:50:53
+File updated in replica: asd.txt at 03/06/2025 12:52:08
+File added to replica from target at 03/06/2025 12:52:48
+File deleted from replica at 03/06/2025 12:52:58
+File added to replica from target at 03/06/2025 17:37:39
+File updated in replica: ola.txt at 03/06/2025 17:37:59
+File updated in replica: ola.txt at 03/06/2025 17:38:29
+File deleted from replica at 03/06/2025 17:47:59
+File deleted from replica at 03/06/2025 17:48:09
+File added to replica from target at 03/06/2025 17:55:56
+File updated in replica: asd at 03/06/2025 17:56:06
+File deleted from replica at 03/06/2025 17:56:16
+File added to replica from source at 03/06/2025 23:02:31
+File updated in replica: s at 03/06/2025 23:02:41
+File deleted from replica at 03/06/2025 23:03:01
